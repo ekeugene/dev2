@@ -1,0 +1,23 @@
+---
+Book_Library:
+- author:
+    name: Alexandre
+    surname: Dumas
+  title: The Count of Monte Cristo
+  publisher: Penguin Classics
+  price: "$19.09"
+  year: 2003
+- author:
+    name: Sir Walter
+    surname: Scott
+  title: The Wealth of Nations
+  publisher: Bantam Classics
+  price: "$7.64"
+  year: 2003
+- author:
+    name: Sir Walter
+    surname: Scott
+  title: Ivanhoe
+  publisher: Wordsworth Classics
+  price: "$4.95"
+  year: 1998
